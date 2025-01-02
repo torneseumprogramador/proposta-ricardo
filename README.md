@@ -6,11 +6,7 @@
 
 ## Orçamento
 
-Segue a proposta revisada com as informações sobre o pagamento por créditos em horas:
-
----
-
-### **Proposta - Plano A: Ajuste Rápido e Desenvolvimento de Página Responsiva**
+### **Proposta - Ajustes e Desenvolvimento de Página Responsiva e outros itens **
 
 #### **Objetivo**
 - Realizar ajustes rápidos no projeto atual.
