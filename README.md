@@ -6,7 +6,7 @@
 
 ## Orçamento
 
-### **Proposta - Ajustes e Desenvolvimento de Página Responsiva e outros itens **
+### **Proposta - Ajustes e Desenvolvimento de Página Responsiva e outros itens**
 
 #### **Objetivo**
 - Realizar ajustes rápidos no projeto atual.
