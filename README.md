@@ -1,34 +1,3 @@
-# Torne-se Um Programador
-
-![Logo](./logo-preto-tornese.jpg)
-
-## Sobre a Empresa
-
-**Didox Business & Technology**
-
-- **CNPJ:** 12.127.195/0001-14
-- **Telefone:** (11) 97614-4154
-- **Site:** [Torne-se um Programador](https://www.torneseumprogramador.com.br/)
-
-Somos uma empresa dedicada a capacitar programadores e contratar os mesmos para o desenvolvimento de projetos customizados. Nossa missão é transformar carreiras e entregar soluções tecnológicas sob medida, alinhadas às necessidades específicas de nossos clientes.
-
----
-
-## Objetivo
-
-Ajudar desenvolvedores de todos os níveis a se destacarem na área de tecnologia através de conteúdos educativos que aliam teoria à prática e fornecendo oportunidades reais de atuação em projetos de tecnologia.
-
----
-
-## Como Entrar em Contato
-
-Caso tenha dúvidas ou queira saber mais sobre nossos cursos, serviços ou projetos customizados, entre em contato conosco pelos canais abaixo:
-
-- **E-mail:** danilo@torneseumprogramador.com.br
-- **Telefone:** (11) 97614-4154
-- **Site:** [https://www.torneseumprogramador.com.br/](https://www.torneseumprogramador.com.br/)
-
----
 
 ## Orçamento
 
@@ -100,6 +69,31 @@ A presente proposta é baseada em uma análise aproximada e está sujeita a vari
 
 ---
 
-## Logo
+![Logo](./logo-preto-tornese-transparente.png)
 
-Certifique-se de incluir a logo no repositório com o nome `logo-preto-tornese.jpg` na raiz do projeto para ser exibida corretamente.
+## Sobre a Empresa
+
+**Didox Business & Technology**
+
+- **CNPJ:** 12.127.195/0001-14
+- **Telefone:** (11) 97614-4154
+- **Site:** [Torne-se um Programador](https://www.torneseumprogramador.com.br/)
+
+Somos uma empresa dedicada a capacitar programadores e contratar os mesmos para o desenvolvimento de projetos customizados. Nossa missão é transformar carreiras e entregar soluções tecnológicas sob medida, alinhadas às necessidades específicas de nossos clientes.
+
+---
+
+## Objetivo
+
+Ajudar desenvolvedores de todos os níveis a se destacarem na área de tecnologia através de conteúdos educativos que aliam teoria à prática e fornecendo oportunidades reais de atuação em projetos de tecnologia.
+
+---
+
+## Como Entrar em Contato
+
+Caso tenha dúvidas ou queira saber mais sobre nossos cursos, serviços ou projetos customizados, entre em contato conosco pelos canais abaixo:
+
+- **E-mail:** danilo@torneseumprogramador.com.br
+- **Telefone:** (11) 97614-4154
+- **Site:** [https://www.torneseumprogramador.com.br/](https://www.torneseumprogramador.com.br/)
+
