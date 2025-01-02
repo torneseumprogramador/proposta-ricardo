@@ -1,4 +1,8 @@
+<div align="center">
+
 ![Logo](./logo-preto-tornese-transparente.png)
+
+</div>
 
 ## Orçamento
 
